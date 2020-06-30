@@ -986,8 +986,12 @@ Vypustiť časové údaje?</translation>
     </message>
     <message>
         <location line="+10"/>
+        <source>© 2001 - 2020  Mean / Eumagga0x2a</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>© 2001 - 2019  Mean / Eumagga0x2a</source>
-        <translation>© 2001 - 2019  Mean / Eumagga0x2a</translation>
+        <translation type="vanished">© 2001 - 2019  Mean / Eumagga0x2a</translation>
     </message>
     <message>
         <location line="+19"/>
@@ -1511,10 +1515,10 @@ Vypustiť časové údaje?</translation>
         <location line="+5"/>
         <location filename="../../common/gui_save.cpp" line="+57"/>
         <location line="+10"/>
-        <location line="+282"/>
+        <location line="+283"/>
         <location line="+19"/>
         <location line="+7"/>
-        <location filename="../../common/gui_savenew.cpp" line="+430"/>
+        <location filename="../../common/gui_savenew.cpp" line="+432"/>
         <source>Audio</source>
         <translation>Audio</translation>
     </message>
@@ -1795,17 +1799,17 @@ Vypustiť časové údaje?</translation>
     <message>
         <location line="+2"/>
         <source>Auto-Append Settings</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>_Use custom fragment size for auto-append of MPEG-TS files</source>
-        <translation>_Pre automatické pripojenie súborov MPEG-TS použije vlastnú veľkosť fragmentu</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>_Fragment size:</source>
-        <translation>_Veľkosť fragmentu:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2078,13 +2082,13 @@ Vypustiť časové údaje?</translation>
         <translation>&amp;Nasledujúca čierna snímka</translation>
     </message>
     <message>
-        <location filename="../../common/ADM_editor/src/ADM_segment.cpp" line="+670"/>
+        <location filename="../../common/ADM_editor/src/ADM_segment.cpp" line="+673"/>
         <location line="+43"/>
         <location filename="../../common/ADM_videoCodec/src/ADM_ffmpeg_dxva2.cpp" line="+80"/>
         <location filename="../../common/ADM_videoCodec/src/ADM_ffmpeg_libva.cpp" line="+144"/>
         <location filename="../../common/ADM_videoCodec/src/ADM_ffmpeg_vdpau_utils.cpp" line="+51"/>
         <location filename="../../common/ADM_videoCodec/src/ADM_ffmpeg_xvba.cpp" line="+134"/>
-        <location filename="../../common/gui_main.cpp" line="+1539"/>
+        <location filename="../../common/gui_main.cpp" line="+1540"/>
         <location line="+27"/>
         <location line="+24"/>
         <location line="+8"/>
@@ -2133,7 +2137,7 @@ Zmätočná inštalácia</translation>
     </message>
     <message>
         <location filename="../../common/gui_autodrive.cpp" line="+48"/>
-        <location filename="../../common/gui_save.cpp" line="-642"/>
+        <location filename="../../common/gui_save.cpp" line="-643"/>
         <source>No audio track</source>
         <translation>Žiadna audio stopa</translation>
     </message>
@@ -2195,7 +2199,7 @@ It is needed to create PSP compatible video.</source>
 To je potrebný na vytvorenie PSP kompatibilného videa.</translation>
     </message>
     <message>
-        <location filename="../../common/gui_main.cpp" line="-1446"/>
+        <location filename="../../common/gui_main.cpp" line="-1447"/>
         <source>Select script/project to run</source>
         <translation>Vyberte skript/projekt na spustenie</translation>
     </message>
@@ -2221,18 +2225,18 @@ To je potrebný na vytvorenie PSP kompatibilného videa.</translation>
 Pokračovať?</translation>
     </message>
     <message>
-        <location line="+116"/>
+        <location line="+115"/>
         <source>Not coded in this version</source>
         <translation>Nepodporované v tejto verzii</translation>
     </message>
     <message>
         <location line="+11"/>
-        <location line="+71"/>
+        <location line="+73"/>
         <source>Select Video File...</source>
         <translation>Vyberte video súbor...</translation>
     </message>
     <message>
-        <location line="-46"/>
+        <location line="-48"/>
         <source>No engine</source>
         <translation>Žiadny mechanizmus</translation>
     </message>
@@ -2242,7 +2246,7 @@ Pokračovať?</translation>
         <translation>Skript tinyPy nie je v tejto zostave povolený</translation>
     </message>
     <message>
-        <location line="+49"/>
+        <location line="+51"/>
         <source>Select Video File to Append...</source>
         <translation>Vybrať video na pripojenie...</translation>
     </message>
@@ -2589,7 +2593,7 @@ Je spustené?</translation>
         <translation>Zaradené do zoznamu úloh</translation>
     </message>
     <message>
-        <location line="+15"/>
+        <location line="+16"/>
         <source>Select Workbench to Save</source>
         <translation>Vyberte projekt na uloženie</translation>
     </message>
@@ -2703,12 +2707,12 @@ Je spustené?</translation>
         <translation>Hotovo</translation>
     </message>
     <message>
-        <location line="-587"/>
+        <location line="-588"/>
         <source>Audio encoder index out of bounds</source>
         <translation>Index audio kódovača je mimo hraníc</translation>
     </message>
     <message>
-        <location line="+509"/>
+        <location line="+510"/>
         <source>Maximum number of 99999 images reached.</source>
         <translation>Dosiahol sa maximálny počet 99999 obrázkov.</translation>
     </message>
@@ -2800,7 +2804,7 @@ Chcete aj tak pokračovať?</translation>
     <message>
         <location line="-326"/>
         <source>Cannot set up encoder for the first pass. The configuration supplied to the encoder may be incompatible or the encoder may depend on features unavailable on this system.</source>
-        <translation>Nemožno nastaviť kódovač pre prvý prechod. Konfigurácia dodaná do kódovača môže byť nekompatibilná alebo kódovač môže závisieť od funkcií nedostupných v tomto systéme.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2811,7 +2815,7 @@ Chcete aj tak pokračovať?</translation>
     <message>
         <location line="-102"/>
         <source>Cannot set up encoder. The configuration supplied to the encoder may be incompatible or the encoder may depend on features unavailable on this system.</source>
-        <translation>Nemožno nastaviť kódovač. Konfigurácia dodaná do kódovača môže byť nekompatibilná alebo kódovač môže závisieť od funkcií nedostupných v tomto systéme.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+74"/>
@@ -3092,12 +3096,12 @@ Skúsiť to znovu?</translation>
     <message>
         <location filename="../../../avidemux_core/ADM_core/src/ADM_prettyPrint.cpp" line="+23"/>
         <source>%d minute(s)</source>
-        <translation>%d minút</translation>
+        <translation type="unfinished">%n minúta</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>%d hour(s)</source>
-        <translation>%d hodín</translation>
+        <translation type="unfinished">%n hodina</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -3367,7 +3371,7 @@ Installation mismatch</source>
         <translation>Nemožno skompilovať shader</translation>
     </message>
     <message>
-        <location filename="../../common/ADM_toolkit/automation.cpp" line="+234"/>
+        <location filename="../../common/ADM_toolkit/automation.cpp" line="+235"/>
         <source>Permission Error</source>
         <translation>Chyba oprávnenia</translation>
     </message>
@@ -3702,7 +3706,7 @@ Táto správa sa znova nezobrazí.</translation>
     <message>
         <location line="+1"/>
         <source>Constant Rate Factor</source>
-        <translation>Faktor konštantnej rýchlosti</translation>
+        <translation>Faktor konštantného rýchlosti</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -4877,17 +4881,17 @@ Chcete ho načítať?
     <message>
         <location line="+3"/>
         <source>Constant Rate Factor</source>
-        <translation>Faktor konštantnej rýchlosti</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Constant Bitrate</source>
-        <translation>Konštantná prenosová rýchlosť</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Variable Bitrate</source>
-        <translation>Premenlivá prenosová rýchlosť</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+6"/>
@@ -4898,7 +4902,7 @@ Chcete ho načítať?
         <location line="+2"/>
         <location line="+3"/>
         <source>Rate Control:</source>
-        <translation>Ovládanie frekvencie:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+2"/>
@@ -4913,7 +4917,7 @@ Chcete ho načítať?
     <message>
         <location line="+1"/>
         <source>Quality:</source>
-        <translation>Kvalita:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
@@ -4966,28 +4970,28 @@ Chcete ho načítať?
     <message>
         <location line="-11"/>
         <source>Constant Rate Factor</source>
-        <translation>Faktor konštantnej rýchlosti</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Constant Bitrate</source>
-        <translation>Konštantná prenosová rýchlosť</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Variable Bitrate</source>
-        <translation>Premenlivá prenosová rýchlosť</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+7"/>
         <location line="+3"/>
         <source>Rate Control:</source>
-        <translation>Ovládanie rýchlosti:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Quality:</source>
-        <translation>Kvalita:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
@@ -5480,25 +5484,25 @@ Chcete ho načítať?
         <location filename="../../../avidemux_plugins/ADM_videoEncoder/ffNvEnc/ADM_ffNvEnc.cpp" line="+253"/>
         <location filename="../../../avidemux_plugins/ADM_videoEncoder/ffNvEncHEVC/ADM_ffNvEnc.cpp" line="+229"/>
         <source>Controlled by Preset</source>
-        <translation>Ovládané predvoľbou</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
         <location filename="../../../avidemux_plugins/ADM_videoEncoder/ffNvEncHEVC/ADM_ffNvEnc.cpp" line="+1"/>
         <source>Constant Quality</source>
-        <translation>Konštantná kvalita</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
         <location filename="../../../avidemux_plugins/ADM_videoEncoder/ffNvEncHEVC/ADM_ffNvEnc.cpp" line="+1"/>
         <source>Constant Bitrate</source>
-        <translation>Konštantná prenosová rýchlosť</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
         <location filename="../../../avidemux_plugins/ADM_videoEncoder/ffNvEncHEVC/ADM_ffNvEnc.cpp" line="+1"/>
         <source>Variable Bitrate</source>
-        <translation>Premenlivá prenosová rýchlosť</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
@@ -5555,7 +5559,7 @@ Chcete ho načítať?
         <location line="+7"/>
         <location filename="../../../avidemux_plugins/ADM_videoEncoder/ffNvEncHEVC/ADM_ffNvEnc.cpp" line="+7"/>
         <source>RC Mode:</source>
-        <translation>Režim RC:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
@@ -5572,7 +5576,7 @@ Chcete ho načítať?
         <location line="+2"/>
         <location filename="../../../avidemux_plugins/ADM_videoEncoder/ffNvEncHEVC/ADM_ffNvEnc.cpp" line="+2"/>
         <source>Quality:</source>
-        <translation>Kvalita:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
@@ -5602,19 +5606,19 @@ Chcete ho načítať?
         <location line="+2"/>
         <location filename="../../../avidemux_plugins/ADM_videoEncoder/ffNvEncHEVC/ADM_ffNvEnc.cpp" line="+2"/>
         <source>2-Pass Mode</source>
-        <translation>Režim dvojitého prechodu</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
         <location filename="../../../avidemux_plugins/ADM_videoEncoder/ffNvEncHEVC/ADM_ffNvEnc.cpp" line="+1"/>
         <source>Low Latency presets always use 2-pass mode</source>
-        <translation>Predvoľby s nízkou odozvou vždy používajú režim s dvoma prechodmi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+2"/>
         <location filename="../../../avidemux_plugins/ADM_videoEncoder/ffNvEncHEVC/ADM_ffNvEnc.cpp" line="+2"/>
         <source>Rate Control</source>
-        <translation>Ovládanie rýchlosti</translation>
+        <translation>Riadenie prenosovej rýchlosti</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -6548,7 +6552,7 @@ Je predpoklad, že má a pokúsiť sa pokračovať</translation>
         <translation>Ukončiť</translation>
     </message>
     <message>
-        <location filename="../../common/GUI_jobs.cpp" line="+37"/>
+        <location filename="../../common/GUI_jobs.cpp" line="+36"/>
         <source>Oops</source>
         <translation>Hoplá</translation>
     </message>
@@ -6558,7 +6562,7 @@ Je predpoklad, že má a pokúsiť sa pokračovať</translation>
         <translation>Pri zostavovaní zoznamu úloh sa stalo niečo veľmi zlé.</translation>
     </message>
     <message>
-        <location line="+6"/>
+        <location line="+5"/>
         <source>There are no jobs stored</source>
         <translation>Nie sú uložené žiadne úlohy</translation>
     </message>
@@ -7217,7 +7221,7 @@ Je predpoklad, že má a pokúsiť sa pokračovať</translation>
     <message>
         <location filename="../../../avidemux_plugins/ADM_demuxers/Mp4/ADM_mp4.cpp" line="+492"/>
         <source>Decoding frame type</source>
-        <translation>Dekódovanie typu snímky</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7241,12 +7245,12 @@ Je predpoklad, že má a pokúsiť sa pokračovať</translation>
     <message>
         <location line="+13"/>
         <source>Incompatible Format</source>
-        <translation>Nekompatibilný formát</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+0"/>
         <source>PSP format is incompatible with LPCM audio</source>
-        <translation>Pre LPMC audio je PSP formát nekaompatibilný</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+182"/>
@@ -7537,7 +7541,7 @@ Je predpoklad, že má a pokúsiť sa pokračovať</translation>
 <context>
     <name>navigate</name>
     <message>
-        <location filename="../../common/gui_navigate.cpp" line="+242"/>
+        <location filename="../../common/gui_navigate.cpp" line="+232"/>
         <source>Cannot go to next keyframe</source>
         <translation>Nemožno prejsť ďalšiu snímku</translation>
     </message>
@@ -7901,7 +7905,7 @@ Súbor musí byť preindexovaný. Pokračovať?</translation>
 <context>
     <name>qgui2</name>
     <message>
-        <location filename="../ADM_userInterfaces/ADM_gui/Q_gui2.cpp" line="+213"/>
+        <location filename="../ADM_userInterfaces/ADM_gui/Q_gui2.cpp" line="+206"/>
         <source>&lt;b&gt;New version available&lt;/b&gt;&lt;br&gt; Version %1&lt;br&gt;Released on %2.&lt;br&gt;You can download it here&lt;br&gt; &lt;a href=&apos;%3&apos;&gt;%3&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;small&gt; You can disable autoupdate in preferences.&lt;/small&gt;</source>
         <translation>&lt;b&gt;Dostupná nová verzia&lt;/b&gt;&lt;br&gt; verzia %1&lt;br&gt;uvoľnená od %2.&lt;br&gt;Môžete si ju stiahnuť tu&lt;br&gt; &lt;a href=&apos;%3&apos;&gt;%3&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;small&gt; Automatickú aktualizáciu môžete zakázať v predvoľbách.&lt;/small&gt;</translation>
     </message>
@@ -7988,18 +7992,18 @@ The current editing has been saved and will be reloaded at next start</source>
 Súčasná úprava bola uložená a pri ďalšom štarte bude znovu načítaná</translation>
     </message>
     <message>
-        <location line="+262"/>
+        <location line="+230"/>
         <source>%c-%s (%02d)</source>
         <translation>%c-%s (%02d)</translation>
     </message>
     <message>
-        <location line="+103"/>
+        <location line="+70"/>
         <source>Selection: </source>
-        <translatorcomment>Výber: </translatorcomment>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <location line="+238"/>
+        <location line="+277"/>
+        <location line="+2"/>
         <source> (%n track(s))</source>
         <translation>
             <numerusform> (%n stopa)</numerusform>
@@ -8248,12 +8252,13 @@ Súčasná úprava bola uložená a pri ďalšom štarte bude znovu načítaná<
     </message>
     <message>
         <location line="+4"/>
-        <location line="+86"/>
+        <location line="+90"/>
         <source>%02d:%02d:%02d.%03d</source>
         <translation>%02d:%02d:%02d.%03d</translation>
     </message>
     <message numerus="yes">
-        <location line="-52"/>
+        <location line="-55"/>
+        <location line="+2"/>
         <source>Audio (%n active track(s))</source>
         <translation>
             <numerusform>Audio (%n aktívna stopa)</numerusform>
@@ -8262,7 +8267,7 @@ Súčasná úprava bola uložená a pri ďalšom štarte bude znovu načítaná<
         </translation>
     </message>
     <message>
-        <location line="+82"/>
+        <location line="+83"/>
         <source>Video</source>
         <translation>Video</translation>
     </message>
@@ -8338,12 +8343,12 @@ Súčasná úprava bola uložená a pri ďalšom štarte bude znovu načítaná<
         <translation>Žiadne audio</translation>
     </message>
     <message>
-        <location line="-168"/>
+        <location line="-172"/>
         <source>%s (%u:%u)</source>
         <translation>%s (%u:%u)</translation>
     </message>
     <message>
-        <location line="+73"/>
+        <location line="+77"/>
         <source>Mono</source>
         <translation>Mono</translation>
     </message>
@@ -9222,7 +9227,7 @@ Pripravený.
     <message>
         <location line="+1"/>
         <source>_Field order:</source>
-        <translation>_Poradie polsnímok:</translation>
+        <translation>Por_adie polsnímok:</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -9318,13 +9323,12 @@ Pripravený.
     <message>
         <location line="+160"/>
         <source>Size Change</source>
-        <translatorcomment>Zmeniť veľkosť</translatorcomment>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>The size of the video changes at frame %u from %ux%u to %ux%u. This is unsupported, stopping here.</source>
-        <translation>Veľkosť videa sa mení v snímke %u z %ux%u na %ux%u. Toto nie je podporované, tu sa to zastaví.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../avidemux_plugins/ADM_demuxers/MpegTS/ADM_ts.cpp" line="+84"/>
@@ -9424,118 +9428,117 @@ Súbor musí byť preindexovaný. Pokračovať?</translation>
     <message>
         <location filename="../../../avidemux_plugins/ADM_videoFilters6/vaapiFilters/ADM_vidVaapiFilterDeint.cpp" line="+121"/>
         <source>VA-API Deinterlacer</source>
-        <translation>Rozkladač VA-API</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Deinterlace and optionally resize video using VA-API.</source>
-        <translation>Rozklad a voliteľná zmena veľkosti videa použitím VA-API.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+316"/>
         <source>Bob</source>
-        <translation>Bob</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Weave</source>
-        <translatorcomment>Prepletať</translatorcomment>
-        <translation>Utkať</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Motion-Adaptive</source>
-        <translation>Prispôsobený pohyb</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Motion-Compensated</source>
-        <translation>Kompenzovaný pohyb</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Top Field First</source>
-        <translation>Najprv horná polsnímka</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Bottom Field First</source>
-        <translation>Najskôr dolná polsnímka</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Frame per Frame</source>
-        <translation>Snímok na snímku</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Double Framerate</source>
-        <translation>Dvojitá snímková frakvencia</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+3"/>
         <source>_Mode:</source>
-        <translation>_Režim:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>_Field Order:</source>
-        <translation>_Poradie polsnímok:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>_Output:</source>
-        <translation>_Výstup:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Deinterlacing</source>
-        <translation>Rozklad</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>_Resize</source>
-        <translation>_Zmena veľkosti</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Width:</source>
-        <translation>Šírka:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Height:</source>
-        <translation>Výška:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Transformation</source>
-        <translation>Transformovanie</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+9"/>
         <source>VA-API Deinterlacer and Resizer</source>
-        <translation>Menič veľkosti a rozkladač VA-API</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Unsupported Mode</source>
-        <translation>Nepodporovaný režim</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Specified deinterlacing mode %s is not supported, replaced with %s.</source>
-        <translation>Zadaný režim rozkladu %s nie je podporovaný, nahradený %s.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+6"/>
         <source>VA-API Setup Error</source>
-        <translation>Chyba nastavenia VA-API</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Could not setup VA-API, purely passthrough operation.</source>
-        <translation>Nepodarilo sa nastaviť VA-API, iba operácie.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9563,7 +9566,7 @@ Súbor musí byť preindexovaný. Pokračovať?</translation>
     <message>
         <location line="+1"/>
         <source>mpeg-&gt;PC</source>
-        <translation>mpeg-&gt;PC</translation>
+        <translation type="unfinished">mpeg-&gt;PC</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -9839,7 +9842,7 @@ Only VP8/VP9 video and Vorbis/Opus audio supported</source>
 Podporované audio len VP8/VP9 video a Vorbis/Opus</translation>
     </message>
     <message>
-        <location line="+87"/>
+        <location line="+89"/>
         <source>Saving Webm</source>
         <translation>Uloženie Webm</translation>
     </message>
