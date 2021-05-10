@@ -7,7 +7,7 @@
     <extra-po-header-po_revision_date></extra-po-header-po_revision_date>
     <extra-po-header-pot_creation_date></extra-po-header-pot_creation_date>
     <extra-po-header-project_id_version></extra-po-header-project_id_version>
-    <extra-po-header-x_generator>Poedit 2.4.2</extra-po-header-x_generator>
+    <extra-po-header-x_generator>Poedit 2.4.3</extra-po-header-x_generator>
     <extra-po-headers>MIME-Version,Content-Type,Content-Transfer-Encoding,Plural-Forms,X-Language,X-Source-Language,X-Qt-Contexts,Project-Id-Version,POT-Creation-Date,PO-Revision-Date,Last-Translator,Language-Team,Language,X-Generator</extra-po-headers>
 <context>
     <name>ADM_Composer</name>
@@ -1005,7 +1005,7 @@ Vypustiť časové údaje?</translation>
     <message>
         <location filename="../ADM_userInterfaces/ADM_dialog/about.ui" line="136"/>
         <source>© 2001 - 2021  Mean / eumagga0x2a</source>
-        <translation>© 2001 - 2021 Mean / eumagga0x2a</translation>
+        <translation>© 2001 - 2021  Mean / eumagga0x2a</translation>
     </message>
     <message>
         <location filename="../ADM_userInterfaces/ADM_dialog/about.ui" line="155"/>
@@ -2273,7 +2273,7 @@ Pokračovať?</translation>
     <message>
         <location filename="../../common/gui_main.cpp" line="406"/>
         <source>tinyPy script is not enabled in this build</source>
-        <translation>tinyPy skript nie je v tejto zostave povolený</translation>
+        <translation>Skript tinyPy nie je v tejto zostave povolený</translation>
     </message>
     <message>
         <location filename="../../common/gui_main.cpp" line="457"/>
@@ -2769,7 +2769,7 @@ Je spustené?</translation>
     <message>
         <location filename="../../common/gui_save.cpp" line="664"/>
         <source>Failed</source>
-        <translation>Zlyhalo</translation>
+        <translation>zlyhalo</translation>
     </message>
     <message>
         <location filename="../../common/gui_save.cpp" line="664"/>
@@ -3471,7 +3471,7 @@ Installation mismatch</source>
     <message>
         <location filename="../../../avidemux_plugins/ADM_videoFilters6/artCharcoal/qt4/artCharcoal.ui" line="14"/>
         <source>Charcoal / Chalkboard</source>
-        <translation>Uhlie / krieda</translation>
+        <translation>Uhlie / Kriedová tabuľa</translation>
     </message>
     <message>
         <location filename="../../../avidemux_plugins/ADM_videoFilters6/artCharcoal/qt4/artCharcoal.ui" line="49"/>
@@ -3692,12 +3692,12 @@ Installation mismatch</source>
     <message>
         <location filename="../../../avidemux_plugins/ADM_videoFilters6/artVignette/ADM_vidArtVignette.cpp" line="43"/>
         <source>Vignette</source>
-        <translation>Vinetka</translation>
+        <translation>Medailónik</translation>
     </message>
     <message>
         <location filename="../../../avidemux_plugins/ADM_videoFilters6/artVignette/ADM_vidArtVignette.cpp" line="44"/>
         <source>Lens vignetting effect, ported from frei0r.</source>
-        <translation>Efekt vinety objektívu, portovaný z frei0r.</translation>
+        <translation>Efekt medailónika objektívu, portovaný z frei0r.</translation>
     </message>
 </context>
 <context>
@@ -3705,7 +3705,7 @@ Installation mismatch</source>
     <message>
         <location filename="../../../avidemux_plugins/ADM_videoFilters6/artVignette/qt4/artVignette.ui" line="14"/>
         <source>Vignette</source>
-        <translation>Medailón</translation>
+        <translation>Medailónik</translation>
     </message>
     <message>
         <location filename="../../../avidemux_plugins/ADM_videoFilters6/artVignette/qt4/artVignette.ui" line="87"/>
@@ -4183,7 +4183,7 @@ Táto správa sa znova nezobrazí.</translation>
     <message>
         <location filename="../../../avidemux_plugins/ADM_videoFilters6/blend/ADM_vidBlendFrames.cpp" line="62"/>
         <source>Frames</source>
-        <translation>Snímky</translation>
+        <translation>snímok</translation>
     </message>
     <message>
         <location filename="../../../avidemux_plugins/ADM_videoFilters6/blend/ADM_vidBlendFrames.cpp" line="64"/>
@@ -5036,7 +5036,7 @@ Chcete ho načítať?
     <message>
         <location filename="../ADM_userInterfaces/ADM_dialog/encoding.ui" line="578"/>
         <source>Frames/sec:</source>
-        <translation>Snímok/sek:</translation>
+        <translation>snímok/sek:</translation>
     </message>
     <message>
         <location filename="../ADM_userInterfaces/ADM_dialog/encoding.ui" line="349"/>
@@ -5959,7 +5959,7 @@ Chcete ho načítať?
     <message>
         <location filename="../../../avidemux_plugins/ADM_videoEncoder/ffNvEnc/ADM_ffNvEnc.cpp" line="343"/>
         <source>Lossless</source>
-        <translation>Bezstratové</translation>
+        <translation>Bezstratová</translation>
     </message>
     <message>
         <location filename="../../../avidemux_plugins/ADM_videoEncoder/ffNvEnc/ADM_ffNvEnc.cpp" line="344"/>
@@ -6074,7 +6074,7 @@ Chcete ho načítať?
     <message>
         <location filename="../../../avidemux_plugins/ADM_videoEncoder/ffNvEnc/ADM_ffNvEnc.cpp" line="395"/>
         <source>Lookahead and Adaptive Quantization may be unavailable with older hardware</source>
-        <translation>Funkcie Výhľadovo a Adaptívna kavantizácia nemusia byť so starším hardvérom k dispozícii</translation>
+        <translation>Funkcie Výhľadovo a Adaptívna kvantizácia nemusia byť so starším hardvérom k dispozícii</translation>
     </message>
     <message>
         <location filename="../../../avidemux_plugins/ADM_videoEncoder/ffNvEnc/ADM_ffNvEnc.cpp" line="397"/>
@@ -8374,7 +8374,7 @@ Podporované iba video VP8/VP9/AV1 a zvuk Vorbis/Opus</translation>
     <message>
         <location filename="../../../avidemux_plugins/ADM_videoFilters6/mSharpen/qt4/msharpen.ui" line="68"/>
         <source>Process chroma</source>
-        <translation>Proces farabnosti</translation>
+        <translation>Proces farebnosti</translation>
     </message>
 </context>
 <context>
@@ -8405,7 +8405,7 @@ Podporované iba video VP8/VP9/AV1 a zvuk Vorbis/Opus</translation>
     <message>
         <location filename="../../../avidemux_plugins/ADM_videoFilters6/negative/ADM_negative.cpp" line="46"/>
         <source>Negative</source>
-        <translation>Negatív</translation>
+        <translation>Záporný</translation>
     </message>
     <message>
         <location filename="../../../avidemux_plugins/ADM_videoFilters6/negative/ADM_negative.cpp" line="47"/>
@@ -8513,7 +8513,7 @@ Podporované iba video VP8/VP9/AV1 a zvuk Vorbis/Opus</translation>
     <message>
         <location filename="../../../avidemux_plugins/ADM_demuxers/OpenDml/ADM_openDMLDepack.cpp" line="85"/>
         <source>Unpacking bitstream</source>
-        <translation>Rozbaľujem bitstream</translation>
+        <translation>Rozbaľovanie bitového toku</translation>
     </message>
 </context>
 <context>
